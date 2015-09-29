@@ -1,5 +1,5 @@
 # Laurie
 
-**Smiling:** `false`
+**Smiling:** `true`
 
-**Outfit:** Striped scoop-neck shirt
+**Outfit:** Cable-knit sweater
