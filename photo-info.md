@@ -1,5 +1,5 @@
 # Photo Information
 
-**Year:** 1978
+**Year:** 1979
 
-**City: ** Harwich Port, Massachusetts
+**City: ** Marblehead, Massachusetts
