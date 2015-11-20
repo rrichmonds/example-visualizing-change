@@ -2,4 +2,4 @@
 
 **Smiling:** `false`
 
-**Outfit:** Red tank top
+**Outfit:** Striped sailor shirt
